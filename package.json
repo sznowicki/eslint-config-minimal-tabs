@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-minimal-tabs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "packageManager": "yarn@4.0.2",
   "main": "eslintconfig.cjs"
 }
